@@ -139,6 +139,10 @@ Here are some ideas to get you started:
 
 <br/>  
 
+### 🔝 Top Contributed Repo: 
+![](https://github-contributor-stats.vercel.app/api?username=Omni-HuB&limit=5&theme=algolia&combine_all_yearly_contributions=true) 
+<br/>
+
 
 <!-- ## Recent Blog Posts  -->
 <!-- BLOG-POST-LIST:START -->  
@@ -168,8 +172,7 @@ Here are some ideas to get you started:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Omni-HuB&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
