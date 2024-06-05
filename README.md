@@ -117,6 +117,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Omni-HuB" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+  
 <!-- <a href="https://twitter.com/ShariQ" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -180,6 +181,9 @@ Here are some ideas to get you started:
 <!--
    ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>   -->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Omni-HuB&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
