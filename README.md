@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a flutter Project on the Public Health Record (PHR) App at TavLab IIIT-D  
   
 
-- 🌱 I’m currently learning Deep Learning and NLP  
+- 🌱 I’m currently learning Deep Learning and Flutter Development.
   
 
 - ❓ Ask me about anything related to Data Analysis, Android Dev, Flutter Dev, Machine Learning  and related technologies  
