@@ -36,7 +36,12 @@ Here are some ideas to get you started:
 
 <br/>  
 
+<!-- Profile Views counter -->
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Omni-HuB&&style=flat-square" align="center" />
+</div>  
 
+  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -167,10 +172,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->  
 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Omni-HuB&&style=flat-square" align="center" />
-</div>  
-  
+
 
 <br/>  
 
