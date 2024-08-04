@@ -225,7 +225,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Omni-HuB&theme=maroongold&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omni-HuB&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&size_weight=1&count_weight=1)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omni-HuB&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&size_weight=0.4&count_weight=0.6)
 
 <br/>  
 
