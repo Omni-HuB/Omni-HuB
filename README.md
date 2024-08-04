@@ -265,7 +265,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=Omni-HuB&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 
-![](https://github-trophies.vercel.app/?username=Omni-HuB)
+![](https://github-trophies.vercel.app/?username=Omni-HuB&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=Omni-HuB&theme=onedark&no-frame=true&no-bg=false&margin-w=4&column=3&rank=S,A,B.C)
 
