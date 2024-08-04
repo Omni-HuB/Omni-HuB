@@ -225,7 +225,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Omni-HuB&theme=maroongold&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omni-HuB&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&lang=-VHDL)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omni-HuB&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&hide=VHDL)
 
 <br/>  
 
