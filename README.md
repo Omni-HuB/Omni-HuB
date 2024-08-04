@@ -264,6 +264,9 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Omni-HuB&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
+
+![](https://github-trophies.vercel.app/?username=Omni-HuB)
+
 <!-- ![](https://github-profile-trophy.vercel.app/?username=Omni-HuB&theme=onedark&no-frame=true&no-bg=false&margin-w=4&column=3&rank=S,A,B.C)
 
 ![](https://github-profile-trophy.vercel.app/?username=Omni-HuB&theme=onedark&no-frame=true&no-bg=false&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
