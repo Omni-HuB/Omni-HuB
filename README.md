@@ -230,7 +230,7 @@ Here are some ideas to get you started:
 <br/>  
 
 ### 🔝 Top Contributed Repo: 
-![](https://github-contributor-stats.vercel.app/api?username=Omni-HuB&limit=5&theme=algolia&combine_all_yearly_contributions=true) 
+![](https://github-contributor-stats.vercel.app/api?username=Omni-HuB&limit=10&theme=algolia&combine_all_yearly_contributions=true) 
 <br/>
 
 
