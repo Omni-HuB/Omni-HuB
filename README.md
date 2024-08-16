@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ### <div align="center">I'm Shariq, Data Analyst, Data Scientist, Android Developer, Flutter Developer 👨‍💻 Student at IIIT-D  🚀</div>  
   
 
+
 - 🔭 I’m currently working on a flutter Project on the Personal Health Record (PHR) App at TavLab IIIT-D  
   
 
