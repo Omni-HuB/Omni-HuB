@@ -34,17 +34,15 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">I'm Shariq, Data Analyst, Data Scientist, Android Developer, Flutter Developer 👨‍💻 Student at IIIT-D  🚀</div>  
+### <div align="center"> 
+
+Passionate about working with data, building AI models, and developing front-end applications.
+Skilled in finding patterns, solving real-world problems, and creating useful solutions.
+Focused on learning and improving, with a strong interest in data science, machine learning, and software development.
+Looking for opportunities to collaborate with innovative teams and contribute to meaningful projects.
+
+🚀</div>  
   
-
-
-- 🔭 I’m currently working on a flutter Project on the Personal Health Record (PHR) App at TavLab IIIT-D  
-  
-
-- 🌱 I’m currently learning Deep Learning and Flutter Development.
-  
-
-- ❓ Ask me about anything related to Data Analysis, Android Dev, Flutter Dev, Machine Learning  and related technologies  
   
 
 <br/>  
