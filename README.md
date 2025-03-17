@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 ### <div align="center"> 
 
+### About Me
 Passionate about working with data, building AI models, and developing front-end applications.
 Skilled in finding patterns, solving real-world problems, and creating useful solutions.
 Focused on learning and improving, with a strong interest in data science, machine learning, and software development.
